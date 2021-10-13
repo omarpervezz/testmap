@@ -1066,7 +1066,7 @@ footer .footer_img .currated_img_update {
 
 
 
-responsive css
+/* responsive css */
 @media (max-width:1200px){
 	.privacy_wrap #map svg{
         width: 700px !important;
